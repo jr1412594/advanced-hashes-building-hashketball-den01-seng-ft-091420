@@ -29,7 +29,7 @@ def game_hash
           slam_dunks: 7
         },
         {
-          palyer_name: "Brook Lopez",
+          player_name: "Brook Lopez",
           number: 11,
           shoe: 17,
           points: 17,

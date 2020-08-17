@@ -76,7 +76,7 @@ def game_hash
           assists: 1,
           steals: 2,
           blocks: 7,
-          sla_dunks: 2
+          slam_dunks: 2
           
         }]
     }
